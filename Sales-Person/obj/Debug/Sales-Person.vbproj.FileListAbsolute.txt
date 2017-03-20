@@ -1,0 +1,11 @@
+c:\users\d.velep\documents\visual studio 2013\Projects\Sales-Person\Sales-Person\bin\Debug\Sales-Person.exe.config
+c:\users\d.velep\documents\visual studio 2013\Projects\Sales-Person\Sales-Person\bin\Debug\Sales-Person.exe
+c:\users\d.velep\documents\visual studio 2013\Projects\Sales-Person\Sales-Person\bin\Debug\Sales-Person.pdb
+c:\users\d.velep\documents\visual studio 2013\Projects\Sales-Person\Sales-Person\bin\Debug\Sales-Person.xml
+c:\users\d.velep\documents\visual studio 2013\Projects\Sales-Person\Sales-Person\obj\Debug\Sales_Person.Form1.resources
+c:\users\d.velep\documents\visual studio 2013\Projects\Sales-Person\Sales-Person\obj\Debug\Sales_Person.Resources.resources
+c:\users\d.velep\documents\visual studio 2013\Projects\Sales-Person\Sales-Person\obj\Debug\Sales-Person.vbproj.GenerateResource.Cache
+c:\users\d.velep\documents\visual studio 2013\Projects\Sales-Person\Sales-Person\obj\Debug\Sales-Person.exe
+c:\users\d.velep\documents\visual studio 2013\Projects\Sales-Person\Sales-Person\obj\Debug\Sales-Person.xml
+c:\users\d.velep\documents\visual studio 2013\Projects\Sales-Person\Sales-Person\obj\Debug\Sales-Person.pdb
+C:\Users\D.velep\documents\visual studio 2013\Projects\Sales-Person\Sales-Person\obj\Debug\Sales-Person.vbprojResolveAssemblyReference.cache
